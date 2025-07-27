@@ -1,0 +1,5 @@
+pipwin
+SpeechRecognition
+pyttsx3
+pyautogui
+pyperclip
